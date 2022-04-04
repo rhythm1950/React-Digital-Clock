@@ -3,9 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <React.Fragment>
-      <h1>Hey, hello, how are you?</h1>
-    </React.Fragment>
+    <div>
+      <h1>Hey, how are you?</h1>
+    </div>
   );
 }
 
